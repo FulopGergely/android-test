@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870377348090",
+    "project_id": "bead-6705e",
+    "storage_bucket": "bead-6705e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870377348090:android:80aa1f5179416f975d2243",
+        "android_client_info": {
+          "package_name": "com.example.bead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870377348090-aho3g88fh7uv9eg7mc3q9027ea0tn7li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bead",
+            "certificate_hash": "dc86794030d0d35ba99123bd4914e8b51d69debd"
+          }
+        },
+        {
+          "client_id": "870377348090-55m9urmkqgaknaaq3o255kuu2n2gkd2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBviQZ0angRZR-MPcE90cjrJ7CRJVskdBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870377348090-55m9urmkqgaknaaq3o255kuu2n2gkd2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
