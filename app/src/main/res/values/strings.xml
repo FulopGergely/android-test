@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">bead</string>
+
+
+    <string-array name="sales_names">
+        <item>Fülöp Balázs egyéni vállalkozó</item>
+        <item>fogaskerek kft</item>
+        <item>József Tibor</item>
+    </string-array>
+
+    <string-array name="sales_description">
+        <item>Gép bérlés</item>
+        <item>Eladó szerszámok</item>
+        <item>szaküzlet</item>
+    </string-array>
+
+    <string-array name="sales_href">
+        <item>https://www.furge-gep.hu/</item>
+        <item>https://www.asdasf.hu/</item>
+        <item>https://www.fsadgasdfvcxsv.hu/</item>
+    </string-array>
+
+</resources>
